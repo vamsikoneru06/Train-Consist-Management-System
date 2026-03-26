@@ -1,5 +1,5 @@
 # Train-Consist-Management-System
-## Objective: Enforce business rules by preventing duplicate bogie IDs.
-### Key Concept: HashSet for automatic deduplication.
-### Action: Attempts to add duplicate IDs; only unique values are stored.
-### Takeaway: Use Set when data integrity (uniqueness) is more important than order.
+## Objective: Maintain a strict physical sequence for train formation.
+### Key Concept: LinkedList for efficient positional inserts and deletions.
+### Action: Chains bogies in order, inserts a "Pantry Car" in the middle, and detaches the ends.
+### Takeaway: Models real-world "chaining" where elements point to each other.
