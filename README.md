@@ -1,5 +1,5 @@
 # Train-Consist-Management-System
-## Objective: Perform CRUD (Create, Read, Update, Delete) operations on passenger bogies.
-### Key Concept: add(), remove(), and contains() methods.
-### Action: Dynamically adds Sleeper and AC classes, then modifies the list.
-### Takeaway: Shows how collections grow and change at runtime.
+## Objective: Enforce business rules by preventing duplicate bogie IDs.
+### Key Concept: HashSet for automatic deduplication.
+### Action: Attempts to add duplicate IDs; only unique values are stored.
+### Takeaway: Use Set when data integrity (uniqueness) is more important than order.
