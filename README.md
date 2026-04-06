@@ -9,7 +9,7 @@ vamsikoneru06
 This project demonstrates Java collection concepts using a railway system simulation.
 
 ### Implemented Use Cases:
-- UC6: HashMap (Bogie → Capacity Mapping)
+# UC7 - Comparator Sorting
 
 ---
 
@@ -23,7 +23,7 @@ This project demonstrates Java collection concepts using a railway system simula
 
 ```bash
 # Step 1: Compile files
-javac usecase6.java
+javac usecase7.java
 
 # Step 2: Run programs
-java usecase6
+java usecase7
