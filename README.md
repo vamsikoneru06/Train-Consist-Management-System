@@ -9,8 +9,7 @@ vamsikoneru06
 This project demonstrates Java collection concepts using a railway system simulation.
 
 ### Implemented Use Cases:
-- UC5: LinkedHashSet (Insertion Order + No Duplicates)
-
+- UC6: HashMap (Bogie → Capacity Mapping)
 
 ---
 
@@ -24,8 +23,7 @@ This project demonstrates Java collection concepts using a railway system simula
 
 ```bash
 # Step 1: Compile files
-javac usecase5.java
-
+javac usecase6.java
 
 # Step 2: Run programs
-java usecase5
+java usecase6
