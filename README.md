@@ -1,5 +1,31 @@
-# Train-Consist-Management-System
-## Objective: Maintain a strict physical sequence for train formation.
-### Key Concept: LinkedList for efficient positional inserts and deletions.
-### Action: Chains bogies in order, inserts a "Pantry Car" in the middle, and detaches the ends.
-### Takeaway: Models real-world "chaining" where elements point to each other.
+# 🚆 Train Consist Management App
+
+### 👨‍💻 Author
+vamsikoneru06
+
+---
+
+## 📌 Description
+This project demonstrates Java collection concepts using a railway system simulation.
+
+### Implemented Use Cases:
+- UC5: LinkedHashSet (Insertion Order + No Duplicates)
+
+
+---
+
+## 🛠️ Technologies Used
+- Java
+- Collections Framework
+
+---
+
+## ▶️ How to Run (Bash)
+
+```bash
+# Step 1: Compile files
+javac usecase5.java
+
+
+# Step 2: Run programs
+java usecase5
