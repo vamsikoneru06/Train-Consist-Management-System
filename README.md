@@ -9,7 +9,7 @@ vamsikoneru06
 This project demonstrates Java collection concepts using a railway system simulation.
 
 ### Implemented Use Cases:
-# UC8 - Stream Filter
+# UC9 - groupingBy
 ---
 
 ## 🛠️ Technologies Used
@@ -22,7 +22,7 @@ This project demonstrates Java collection concepts using a railway system simula
 
 ```bash
 # Step 1: Compile files
-javac usecase8.java
+javac usecase9.java
 
 # Step 2: Run programs
-java usecase8
+java usecase9
