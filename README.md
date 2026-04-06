@@ -9,7 +9,7 @@ vamsikoneru06
 This project demonstrates Java collection concepts using a railway system simulation.
 
 ### Implemented Use Cases:
-# UC9 - groupingBy
+# UC10 - reduce()
 ---
 
 ## 🛠️ Technologies Used
@@ -22,7 +22,7 @@ This project demonstrates Java collection concepts using a railway system simula
 
 ```bash
 # Step 1: Compile files
-javac usecase9.java
+javac usecase10.java
 
 # Step 2: Run programs
-java usecase9
+java usecase10
