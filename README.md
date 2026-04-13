@@ -1,17 +1,13 @@
 # Train-Consist-Management-System
 ---
-# 🚆 UC15 - Cargo Safety Exception
+# 🚆 UC16 - Bubble Sort
 
 ## Author
 vamsikoneru06
 
 ## Description
-Handles unsafe cargo assignment using custom runtime exception.
-
-## Run
-javac src/main/*.java  
-java main.usecase15
+Implements bubble sort for bogie capacities.
 
 ## Concepts
-- Runtime Exception
-- try-catch-finally
+- Sorting
+- Nested loops
