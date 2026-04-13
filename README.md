@@ -1,5 +1,9 @@
 # Train-Consist-Management-System
-## 🚆 UC13 - Performance Comparison (Loops vs Streams)
+---
+
+# 📘 README_UC14.md
+```markdown
+# 🚆 UC14 - Custom Exception Handling
 
 ## 👨‍💻 Author
 vamsikoneru06
@@ -7,26 +11,25 @@ vamsikoneru06
 ---
 
 ## 📌 Description
-This use case compares the performance of traditional loop-based filtering and Java Stream-based filtering using execution time measurement.
+Implements validation for bogie capacity using a custom exception to prevent invalid object creation.
 
 ---
 
 ## 🎯 Objective
-- Understand performance differences between loops and streams
-- Measure execution time using System.nanoTime()
+- Prevent invalid bogies (capacity ≤ 0)
+- Demonstrate custom exception usage
 
 ---
 
 ## ⚙️ Steps
-1. Create a large dataset
-2. Filter using loop
-3. Filter using stream
-4. Measure execution time
-5. Compare results
+1. Create custom exception class
+2. Validate capacity in constructor
+3. Throw exception if invalid
+4. Handle using try-catch
 
 ---
 
 ## ▶️ How to Run
 ```bash
-javac Main.usecase13.java
-java Main.usecase13
+javac usecase14.java
+java usecase14
