@@ -1,12 +1,13 @@
 # Train-Consist-Management-System'
 
-# 🚆 UC18 - Linear Search
+# 🚆 UC19 - Binary Search
 
 ## Author
 vamsikoneru06
 
 ## Description
-Searches bogie ID sequentially.
+Efficient search using binary search.
 
 ## Concepts
-- Linear search
+- Binary search
+- Sorting
