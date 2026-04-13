@@ -1,13 +1,12 @@
-# Train-Consist-Management-System
----
-# 🚆 UC16 - Bubble Sort
+# Train-Consist-Management-System'
+
+# 🚆 UC18 - Linear Search
 
 ## Author
 vamsikoneru06
 
 ## Description
-Implements bubble sort for bogie capacities.
+Searches bogie ID sequentially.
 
 ## Concepts
-- Sorting
-- Nested loops
+- Linear search
