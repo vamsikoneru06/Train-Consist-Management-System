@@ -1,13 +1,13 @@
-# Train-Consist-Management-System'
+# Train-Consist-Management-System
 
-# 🚆 UC19 - Binary Search
+# 🚆 UC20 - Exception Handling in Search
 
 ## Author
 vamsikoneru06
 
 ## Description
-Efficient search using binary search.
+Throws exception when searching empty dataset.
 
 ## Concepts
-- Binary search
-- Sorting
+- IllegalStateException
+- Validation
