@@ -1,13 +1,12 @@
 # Train-Consist-Management-System
 ---
-# 🚆 UC16 - Bubble Sort
+# 🚆 UC17 - Arrays.sort()
 
 ## Author
 vamsikoneru06
 
 ## Description
-Implements bubble sort for bogie capacities.
+Uses built-in sorting method.
 
 ## Concepts
-- Sorting
-- Nested loops
+- Arrays.sort()
